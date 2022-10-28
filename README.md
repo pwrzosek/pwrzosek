@@ -1,6 +1,6 @@
 - Hi 👋
 - I’m currently a PhD student in Physics.
-- I’m interested in Condensed Matter Physics including Physics of Transition Metal Oxides (Mott Insulators, Magnetizm, High-Tc Superconductivity, Quasiparticles).
+- I’m interested in Condensed Matter Physics including physics of Transition Metal Oxides (Mott Insulators, Magnetizm, High-Tc Superconductivity, Quasiparticles).
 - My research requires a significant amount of programming in Julia / C++ / Mathematica / Python (mainly to decompose large and sparse Hermitian matrices).
 
 <!---
