@@ -3,7 +3,7 @@
 - I have done a significant amount of numerics (for Bachelor's, Master's and PhD). It was primarily linear algebra and decomposition of large and sparse matrices - often running on HPC. I also did 4 internships before Master's. There I revised some old, crappy, spaghetti codes writen in FORTRAN. I improved the performance (sometimes making the code run tens of times faster) or rewrote some of it to C++.
 - I have years of experience in data visualisation (with Mathematica, Matlab, Python, R). I can also do some basic ML stuff in Python (PyTorch).
 - I like teaching. I used to teach Programming and Numerical Methods, Algebra (both semesters) and Complex Analysis at my university. 
-- Most used languages: C++, Julia, Mathematica and LaTeX (last one for PDFs with math notation). Other: Python, Matlab, FORTRAN, PASCAL, R, Rust (probably not exhaustive list).
+- I mostly use: C++, Julia, Mathematica and LaTeX (last one for PDFs with math notation). Other: Python, Matlab, FORTRAN, PASCAL, R, Rust (probably not exhaustive list).
 - I had a pleasure to work with fantastic people during my PhD studies. Together, we published 5 papers (I'm first author of 4 of them). There are also two more or less finished works I contributed to that may appear in the future.
 <!---
 Lilineko/Lilineko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
