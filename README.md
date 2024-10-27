@@ -1,5 +1,5 @@
 #### About me
-- I got interested in programming over 10 years ago when attending my first course in this topic (it was taught in PASCAL). I used to write simple bots to games - it was both fun and really good way to improve my programming skills. I was using Cheat Engine for reverse engineering and Delphi PASCAL for writing windowed apps. Later I switched to primarily using C++.
+- I got interested in programming over 10 years ago when attending my first course in this topic (it was taught in PASCAL). I used to write simple bots to games - it was both fun and really good way to improve my programming skills. I was using Cheat Engine for reverse-engineering and Delphi PASCAL for writing windowed apps. Later I switched to primarily using C++.
 - I have done a significant amount of numerics (for Bachelor's, Master's and PhD). It was primarily linear algebra and decomposition of large and sparse matrices - often running on HPC.
 - I have some experience in data visualisation (with Mathematica, Matlab, Python, R). I can also do some basic ML stuff in Python (PyTorch).
 - I was teaching Programming and Numerical Methods, Algebra (both semesters) and Complex Analysis at my university. 
