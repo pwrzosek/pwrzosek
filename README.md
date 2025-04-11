@@ -1,10 +1,10 @@
 #### About me
-- I got interested in programming over 10 years ago when attending my first course in this topic (it was taught in PASCAL). I used to write simple bots to games - it was both fun and really good way to improve my programming skills. I was using Cheat Engine for reverse-engineering and Delphi PASCAL for writing windowed apps. Later I switched to primarily using C++.
-- I have done a significant amount of numerics (for Bachelor's, Master's and PhD). It was primarily linear algebra and decomposition of large and sparse matrices - often running on HPC.
-- I have some experience in data visualisation (with Mathematica, Matlab, Python, R). I can also do some basic ML stuff in Python (PyTorch).
-- I was teaching Programming and Numerical Methods, Algebra (both semesters) and Complex Analysis at my university. 
-- I mostly use C++, Julia, Mathematica and LaTeX (last one for PDFs with math notation). I know a bit of Python, Matlab, FORTRAN, PASCAL, R, Rust (probably not exhaustive list).
-- I had a pleasure to work with fantastic people during my PhD studies. Together, we published 5 papers (I'm first author of 4 of them). There are also two more or less finished works I contributed to that may appear in the future.
+- I like to code for fun and challenges.
+- I used to write simple bots to games. It was over 10 yrs. ago. I started it as a "summer project" for myself after 2 semesters of programming classes at my Uni. I had a lot of fun with that and learned a lot in the process (basics of reverse engineering, assembly, etc.).
+- I designed and implemented state-of-the-art algorithms for investigating quantum phenomena in strongly correlated systems (hard numerics for my PhD in Condensed Matter Physics). Some of these algorithms took advantage of well-known linear algebra concepts incl. procedures for decomposition of large sparse matrices. Others were my own creative and novel ideas.
+- I strive for both simplicity and performance when coding. I like when the code I write is readable and easy to understand. I also believe that the best code is no code at all. (No bugs, and it runs in O(1)). Making sure that the code is minimal and does only what is absolutely necessary in optimized way is one of the things that make programming interesting to me.
+- Languages / tools I use(d): C++, Julia, Mathematica, Python (incl. PyTorch), LaTeX, MatLab, FORTRAN, PASCAL, R (+ R Studio), Rust.
+- List of publications available at my [Google Scholar](https://scholar.google.com/citations?user=cjwK5yoAAAAJ&hl=pl&oi=ao) profile.
 <!---
 Lilineko/Lilineko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
